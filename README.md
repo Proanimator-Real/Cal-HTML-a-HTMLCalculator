@@ -5,11 +5,9 @@ A fully functional HTML calculator with Basic, Scientific, and Programmer modes.
 ✨ Features
 3 Switchable Modes: Basic (+-×÷) | Scientific (sin/cos/log/√/π) | Programmer (AND/OR/XOR/Hex/Bin)
 
-Direct Typing: Type equations like 2+3*4 or sin(3.14)
+Direct Typing: Type equations like 2+3*4
 
-Smart Validation: Letters ("hello") → instant Error (auto-clears)
-
-Responsive Design: Works on desktop/mobile
+Responsive Design:
 
 Single HTML File: No dependencies, copy-paste ready
 
@@ -21,9 +19,6 @@ Save as cal.html
 Double-click to open in browser
 
 Start calculating!
-
-📱 Mobile Ready
-Touch-friendly buttons, responsive grid, tested on iOS/Android.
 
 ❤️ Made With
 text
